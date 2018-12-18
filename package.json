@@ -2,10 +2,7 @@
   "name": "particles_system",
   "version": "0.0.2",
   "description": "Simple particle system OOP in JS (ES6) raw, no build or wte.",
-  "main": "index.html",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "public/index.html",
   "keywords": [
     "js",
     "particle",
