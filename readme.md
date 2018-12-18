@@ -26,4 +26,4 @@ Particle system to wander around with ES6 and games. Develop in canvas for now.
 - [ ] Add rotation/spin force to particles (no random()).
 
 ## contributors
-- (https://mamarmite.com)[Marc-André Martin]
+- [Marc-André Martin](https://mamarmite.com)
